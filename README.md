@@ -1,1 +1,1 @@
-# my_academy
+# Best Practices of ML
